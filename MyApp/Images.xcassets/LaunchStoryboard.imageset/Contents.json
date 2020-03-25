@@ -1,0 +1,200 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-1.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-2.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-8.png",
+      "height-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-7.png",
+      "height-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-6.png",
+      "height-class" : "compact",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-9.png",
+      "width-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-10.png",
+      "width-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-11.png",
+      "width-class" : "compact",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-14.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-13.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "splachscreen-12.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-15.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-16.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-17.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-18.png",
+      "height-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-19.png",
+      "height-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-20.png",
+      "height-class" : "compact",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-22.png",
+      "width-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-24.png",
+      "width-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-21.png",
+      "width-class" : "compact",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-23.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-25.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "splachscreen-26.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-28.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-27.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-29.png",
+      "height-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-30.png",
+      "height-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-31.png",
+      "width-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-32.png",
+      "width-class" : "compact",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-33.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "splachscreen-34.png",
+      "width-class" : "compact",
+      "height-class" : "compact",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
