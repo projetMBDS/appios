@@ -38,6 +38,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="LaunchStoryboard" width="348.5" height="562.5"/>
+        <image name="LaunchStoryboard" width="320" height="568"/>
     </resources>
 </document>
